@@ -5,7 +5,7 @@ This project explores object detection models for autonomous driving by evaluati
 ## Project Overview
 
 - Dataset: KITTI (7-class object detection version)
-- Models Used: YOLOv8, YOLOv11, YOLOv12 (custom-trained)
+- Models Used: YOLOv8, YOLOv11, YOLOv12 , MobileVIT+YOLO
 - Backbones: Standard YOLO + transformer hybrids (e.g., MobileViT, SwinViT)
 - Task: Real-time object detection for autonomous vehicles
 - Evaluation Metric: mAP (Mean Average Precision), Precision, Recall, FPS
